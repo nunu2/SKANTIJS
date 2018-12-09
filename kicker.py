@@ -11,17 +11,17 @@ from bs4 import BeautifulSoup
 from urllib.parse import urlencode
 import subprocess as cmd
 #===============================================================================================
-cl = LineClient(authToken="Ey7tFiLnlFpwqRPFOaU7.ryGTdQ0xa4vDVgdudJE/XW.XI294Kk99lkvptR4Yj4VwojSWR/5Wmv09AmXcCcv3Ek=")
+cl = LineClient(authToken=)
 cl.log("Auth Token : " + str(cl.authToken))
-ki = LineClient(authToken="Eyp367JgZutXyD360s29.k+n9YlUAYfbHu5wP4vHq/q.tNEpnYBhgrK87na8W7VrqCoT64AwT3+7R+gmS/VZPv8=")
+ki = LineClient(authToken=)
 ki.log("Auth Token : " + str(ki.authToken))
-kk = LineClient(authToken="EyTIk2WKXmKDOCxwkHuc.cL7O15BJz3PwUe+Wo2vK7a.GxMqFBJ15+BRvFqSwzeiRoMkc8+fXErghNkrLwrPm4M=")
+kk = LineClient(authToken=)
 kk.log("Auth Token : " + str(kk.authToken))
-kc = LineClient(authToken="EyCZb6HjxFQuWCQQO3S7.kBfVdPNp3W59E4fW983bPW.QMBl4yIwbXwJg0So5uctS5uPhD/HXIu94kgQwK5sx6Y=")
+kc = LineClient(authToken=)
 kc.log("Auth Token : " + str(kc.authToken))
-kb = LineClient(authToken="Eyan9mFtZ2OSGDmKIRde.362avKDVpNAqnxvrpmIUVG.Qf4BuGJoDFXA+sxAbXKGroumBTr8zU4vrziWPiLiXGs=")
+kb = LineClient(authToken=)
 kb.log("Auth Token : " + str(kb.authToken))
-sw = LineClient(authToken="Ey6WcRNQ0Ewm1lr6J6ga.6L+GtJLXpMDOZ1AhVfRhQG.AZTi/kSyPsMffaL/b9+ZjTfsdhcakk1ibp4caxdGSyg=")
+sw = LineClient(authToken=)
 sw.log("Auth Token : " + str(sw.authToken))
 
 print ("Creator dhenz415 ")
